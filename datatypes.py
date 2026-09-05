@@ -1,0 +1,14 @@
+a="Hello World" #str
+b=20 #int
+c=20.5 #float
+d=lj #complex
+e=["apple","banana","mango"] #list
+f=("apple", "cherry", "kiwi") #tuple
+g= range(6) #range
+h= {"name":"Sneha", "age":19} #dict 
+i={"potato", "carrot", "broccoli"} #set
+j=frozenset ({"ginger","lichi", "orange"}) #frozenser
+k=True #bool 
+l=b"Hello" #bytes
+m=bytearray(5) @memoryview(bytf) 
+n=memoryview(bytes(5))

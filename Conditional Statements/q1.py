@@ -1,3 +1,6 @@
+"""WAP that accepts an integer and determines whether it is positive. negative, or zero. 
+If it is positive, also state whether it is even or odd """
+ 
 n=int(input("Enter a number:"))
 if(n==0):
     print("Zero")

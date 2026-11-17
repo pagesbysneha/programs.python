@@ -1,3 +1,4 @@
+#sum of all even no.
 n=int(input("Enter the no: "))
 sumofeven=0
 for i in range(1,n+1):

@@ -1,3 +1,4 @@
+#factorial of non negative integer
 n=int(input("Enter the no. :"))
 if(n>=0):
     f=1
